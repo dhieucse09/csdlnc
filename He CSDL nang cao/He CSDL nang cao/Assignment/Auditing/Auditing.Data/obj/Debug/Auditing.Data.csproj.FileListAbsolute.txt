@@ -1,0 +1,5 @@
+E:\Programs\Visual Studio 2008\Auditing\Auditing.Data\bin\Debug\Auditing.Data.dll
+E:\Programs\Visual Studio 2008\Auditing\Auditing.Data\bin\Debug\Auditing.Data.pdb
+E:\Programs\Visual Studio 2008\Auditing\Auditing.Data\obj\Debug\ResolveAssemblyReference.cache
+E:\Programs\Visual Studio 2008\Auditing\Auditing.Data\obj\Debug\Auditing.Data.dll
+E:\Programs\Visual Studio 2008\Auditing\Auditing.Data\obj\Debug\Auditing.Data.pdb

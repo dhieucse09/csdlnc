@@ -1,0 +1,40 @@
+﻿<docroot>
+<title>Oracle High Availability Architecture</title>
+<splashpage>no</splashpage>
+<thumbnail>splashthumb.jpg</thumbnail>
+<demo language="English">
+
+<sections>
+<section>
+<name>Oracle High Availability Architecture</name>
+<file>chapter1.swf</file>
+<thumbnail>chapter1.jpg</thumbnail>
+<transcript>
+<text time="00:00">In today’s 24/7 environment, organizations must keep critical business applications and information accessible at all times, while ensuring a predictable quality of service for their users.</text>
+<text time="00:14">Oracle Maximum Availability Architecture provides a set of industry-leading technologies that protect against the common causes of planned and unplanned downtime. These technologies include:</text>
+<text time="00:25">Oracle Real Application Clusters to protect against server failure</text>
+<text time="00:31">Oracle Automatic Storage Management to protect against storage failure</text>
+<text time="00:37">Oracle Flashback features to quickly undo mistakes committed by users and administrators; and</text>
+<text time="00:43">Oracle Data Guard, which automates failover to your standby databases to protect against complete system and site failures.</text>
+<text time="00:51">And now, with Oracle Database 11g, there is Oracle Active Data Guard. With Oracle Active Data Guard, your standby database expands beyond continuous recovery and is now available for simultaneous read operations as well,</text>
+<text time="01:090">so you can use your backup databases to offload resource-intensive activities—such as queries, reporting, and backups—from your production systems.</text>
+<text time="01:20">This means that you can make more effective use of standby systems, and free up resources from primary systems so they can predictably deliver the highest quality of service in terms of performance and availability.</text>
+<text time="01:34">Implementing a Maximum Availability Architecture using Oracle Database 11g will help protect business applications and information from failure, reduce your cost of downtime, and keep your organization running smoothly 24/7.</text>
+
+
+
+</transcript>
+</section>
+<section>
+
+<name>Next Steps</name>
+<file>nextsteps.swf</file>
+<thumbnail>nextsteps.jpg</thumbnail>
+<transcript>
+<text time="00:00">For more information on Oracle Maximum Availability Architecture and Oracle Database 11g, visit oracle.com/ha
+</text>
+</transcript>
+</section>
+</sections>
+</demo>
+</docroot>
